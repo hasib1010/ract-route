@@ -10,7 +10,7 @@ function App() {
     <>
     <Navbar></Navbar>
 
-    <h1>sagsgas</h1>
+    <h1></h1>
     </>
   )
 }
