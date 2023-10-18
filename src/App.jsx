@@ -9,6 +9,8 @@ function App() {
   return (
     <>
     <Navbar></Navbar>
+
+    <h1>sagsgas</h1>
     </>
   )
 }
